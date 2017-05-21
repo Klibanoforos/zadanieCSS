@@ -61,3 +61,29 @@ section#about h2#about-header {
 section#about p.about-content {
     text-align: center;
 }
+
+footer#contact {
+    background-color: #222;
+    padding: 30px 50px;
+}
+
+footer#contact h2#contact-header {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+footer#contact address#contact-content {
+    text-align: center;
+    color: white;
+    font-style: normal;
+}
+
+footer#contact address#contact-content a {
+    color: white;
+}
+
+footer#contact address#contact-content a:hover {
+    color: #999;
+    }
